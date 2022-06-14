@@ -18,6 +18,4 @@ Tecnologias utilizadas:
 - Entity Framework Core
 - RESTFul com Web API
 - Fluent API
-- Migrations com Entity Framework Core
-- Relacionamentos entre entidades no Entity Framework Core
-- PostGreSQL
+- PostgreSQL
